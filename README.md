@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Jagadesh Kumar - Java Developer 👋
+*Java Developer* — Java • Spring boot • SQL • REST APIs • Microservices • Spring reactive
 
-<!--
-**jagadeshkumarG/jagadeshkumarG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: *Interview Prep* (Java + Spring boot + MySQL + Microservices + REST APIs)
+✅ I write tests with pytest and use GitHub Actions (CI)
+🌱 Learning: caching, async, system design basics
+🌐 LinkedIn: https://www.linkedin.com/in/jagadesh-kumar-068229244/
 
-Here are some ideas to get you started:
+Tech
+Java, REST API, Spring Boot, Microservices, SQL, Git, Docker, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:-
+ 
